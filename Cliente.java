@@ -20,8 +20,6 @@ public class Cliente {
         this.statusCancelado = statusCancelado;
     }
     
-    
-
     public boolean isStatusPagamento() {
         return statusPagamento;
     }
@@ -30,8 +28,6 @@ public class Cliente {
         this.statusPagamento = statusPagamento;
     }
 
-    
-    
     public String getStatusLavagem() {
         return statusLavagem;
     }
@@ -40,8 +36,6 @@ public class Cliente {
         this.statusLavagem = statusLavagem;
     }
     
-    
-
     public double getPreco() {
         return preco;
     }
@@ -50,8 +44,6 @@ public class Cliente {
         this.preco = preco;
     }
     
-    
-
     public int getId() {
         return id;
     }
